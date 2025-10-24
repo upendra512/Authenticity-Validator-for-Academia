@@ -14,12 +14,12 @@ It eliminates the risk of fake certificates, tampering, and manual verification 
 
 ## 🧩 Key Features
 
-- 🧾 **Certificate Issuance** — Institutions can issue certificates stored on IPFS and registered on the blockchain.  
-- 🔍 **Verification System** — Anyone can verify authenticity by checking the blockchain record.  
-- 🧠 **Creator / Institution Dashboard** — Manage academic documents with a clean UI.  
-- 🧑‍🎓 **Student Access** — Students can securely view and share their verified credentials.  
-- 🛡️ **Immutability** — Data stored on blockchain ensures long-term trust and transparency.  
-- ⚡ **Smart Contracts** — Written in Solidity, powered by Hardhat for deployment and testing.  
+- 🧾 Certificate Issuance— Institutions can issue certificates stored on IPFS and registered on the blockchain.  
+- 🔍 Verification System — Anyone can verify authenticity by checking the blockchain record.  
+- 🧠 Creator / Institution Dashboard** — Manage academic documents with a clean UI.  
+- 🧑‍🎓 Student Access — Students can securely view and share their verified credentials.  
+- 🛡️ Immutability— Data stored on blockchain ensures long-term trust and transparency.  
+- ⚡ Smart Contracts — Written in Solidity, powered by Hardhat for deployment and testing.  
 
 ---
 
@@ -29,9 +29,9 @@ It eliminates the risk of fake certificates, tampering, and manual verification 
 |-------|-------------|-------------|
 | **Frontend** | React / Next.js | User dashboard for institutions and verifiers |
 | **Blockchain** | Solidity + Hardhat | Smart contract logic for document management |
-| **Storage** | IPFS / Pinata | Decentralized storage for academic content (CIDs) |
-| **Backend (optional)** | Node.js / Express | API layer for authentication and metadata |
-| **Network** | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
+| Storage | IPFS / Pinata | Decentralized storage for academic content (CIDs) |
+| Backend (optional) | Node.js / Express | API layer for authentication and metadata |
+| Network | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
 
 ---
 
