@@ -1,18 +1,15 @@
-# 🎓 Authenticity Validator for Academia
+🎓 Authenticity Validator for Academia
 
 A blockchain-based authenticity verification system designed for academic institutions to validate certificates, research papers, and academic records.  
-This project leverages smart contracts and decentralized storage (IPFS) to ensure transparency, immutability, and verifiable trust for all academic credentials.
-
----
-
-## 🚀 Project Overview
+This project leverages smart contracts and decentralized storage (IPFS) to ensure transparency, immutability, and verifiable trust for all academic credential.
+🚀 Project Overview
 
 The **Authenticity Validator for Academia** enables universities and institutions to issue, store, and verify documents securely using blockchain technology.  
 It eliminates the risk of fake certificates, tampering, and manual verification delays by providing a public, tamper-proof validation system.
 
 ---
 
-## 🧩 Key Features
+🧩 Key Features
 
 - 🧾 Certificate Issuance— Institutions can issue certificates stored on IPFS and registered on the blockchain.  
 - 🔍 Verification System — Anyone can verify authenticity by checking the blockchain record.  
@@ -22,8 +19,7 @@ It eliminates the risk of fake certificates, tampering, and manual verification 
 - ⚡ Smart Contracts — Written in Solidity, powered by Hardhat for deployment and testing.  
 
 ---
-
-## 🧱 Tech Stack
+🧱 Tech Stack
 
 | Layer | Technology | Description |
 |-------|-------------|-------------|
@@ -33,9 +29,7 @@ It eliminates the risk of fake certificates, tampering, and manual verification 
 | Backend (optional) | Node.js / Express | API layer for authentication and metadata |
 | Network | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
 
----
-
-## 🏗️ Project Architecture
+- 🏗️ Project Architecture
 
 ```mermaid
 flowchart TD
