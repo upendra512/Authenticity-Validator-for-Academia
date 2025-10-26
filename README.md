@@ -7,7 +7,6 @@ This project leverages smart contracts and decentralized storage (IPFS) to ensur
 The **Authenticity Validator for Academia** enables universities and institutions to issue, store, and verify documents securely using blockchain technology.  
 It eliminates the risk of fake certificates, tampering, and manual verification delays by providing a public, tamper-proof validation system.
 
----
 
 🧩 Key Features
 
