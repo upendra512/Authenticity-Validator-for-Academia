@@ -7,7 +7,7 @@ pragma solidity ^0.8.20;
  * Institutions can issue verifiable certificates stored immutably on Core Blockchain.
  */
 contract AcademicValidator {
-    address public institution; // owner (college/
+    address public institution; // owner (college)
 
     struct Certificate {
         string studentName;

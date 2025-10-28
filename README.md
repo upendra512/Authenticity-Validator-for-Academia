@@ -8,6 +8,9 @@ The **Authenticity Validator for Academia** enables universities and institution
 It eliminates the risk of fake certificates, tampering, and manual verification delays by providing a public, tamper-proof validation system.
 
 
+## 🌍 Project Vision
+To build a decentralized academic validation system that eliminates document forgery, enhances trust among universities and employers, and empowers students with verifiable digital credentials.
+
 🧩 Key Features
 
 - 🧾 Certificate Issuance— Institutions can issue certificates stored on IPFS and registered on the blockchain.  
@@ -27,6 +30,16 @@ It eliminates the risk of fake certificates, tampering, and manual verification 
 | Storage | IPFS / Pinata | Decentralized storage for academic content (CIDs) |
 | Backend (optional) | Node.js / Express | API layer for authentication and metadata |
 | Network | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
+## 🚀 Future Scope
+- Integration with decentralized identity (DID) systems.
+- Multi-institution support with access control.
+- NFT-based digital certificates.
+- Cross-chain compatibility for global academic verification.
+
+## 🧱 Deployment
+```bash
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network coreTestnet2
 
 - 🏗️ Project Architecture
 
