@@ -25,7 +25,7 @@ To build a decentralized academic validation system that eliminates document for
 
 | Layer | Technology | Description |
 |-------|-------------|-------------|
-| **Frontend** | React / Next.js | User dashboard for institutions and verifiers |
+| **Frontend** | React / Next.js | User dashboard for institutions and verifiers 
 | **Blockchain** | Solidity + Hardhat | Smart contract logic for document management |
 | Storage | IPFS / Pinata | Decentralized storage for academic content (CIDs) |
 | Backend (optional) | Node.js / Express | API layer for authentication and metadata |
