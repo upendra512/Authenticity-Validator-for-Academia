@@ -20,7 +20,6 @@ To build a decentralized academic validation system that eliminates document for
 - 🛡️ Immutability— Data stored on blockchain ensures long-term trust and transparency.  
 - ⚡ Smart Contracts — Written in Solidity, powered by Hardhat for deployment and testing.  
 
----
 🧱 Tech Stack
 
 | Layer | Technology | Description |
