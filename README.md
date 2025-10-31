@@ -29,24 +29,17 @@ To build a decentralized academic validation system that eliminates document for
 | Storage | IPFS / Pinata | Decentralized storage for academic content (CIDs) |
 | Backend (optional) | Node.js / Express | API layer for authentication and metadata |
 | Network | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
+
 ## 🚀 Future Scope
 - Integration with decentralized identity (DID) systems.
 - Multi-institution support with access control.
 - NFT-based digital certificates.
 - Cross-chain compatibility for global academic verification.
 
-## 🧱 Deployment
-```bash
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network coreTestnet2
 
-- 🏗️ Project Architecture
+## Contract Details
+0xcAbfe1403779C53e11648F222b3ccC78cE336ae4
+<img width="1837" height="897" alt="image" src="https://github.com/user-attachments/assets/30896e8f-b821-41c9-bec2-2ffd0d682dbf" />
 
-```mermaid
-flowchart TD
-    A[Institution / Admin] -->|Uploads Document| B[IPFS Storage]
-    B --> C[Smart Contract on Blockchain]
-    C -->|Stores CID + Metadata| D[Blockchain Ledger]
-    D -->|Publicly Accessible| E[Verifier / Recruiter]
-    E -->|Queries| C
-    F[Student] -->|Views / Shares Verified Docs| C
+
+
