@@ -31,6 +31,7 @@ To build a decentralized academic validation system that eliminates document for
 | Network | Ethereum / Polygon / Local Hardhat | Smart contract deployment environment |
 
 ## 🚀 Future Scope
+
 - Integration with decentralized identity (DID) systems.
 - Multi-institution support with access control.
 - NFT-based digital certificates.
