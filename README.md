@@ -2,6 +2,8 @@
 
 A blockchain-based authenticity verification system designed for academic institutions to validate certificates, research papers, and academic records.  
 This project leverages smart contracts and decentralized storage (IPFS) to ensure transparency, immutability, and verifiable trust for all academic credential.
+
+
 🚀 Project Overview
 
 The **Authenticity Validator for Academia** enables universities and institutions to issue, store, and verify documents securely using blockchain technology.  
